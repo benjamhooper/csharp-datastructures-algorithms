@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Singe_Dimensional_Arrays
+namespace Single_Dimensional_Arrays
 {
     class Program
     {
